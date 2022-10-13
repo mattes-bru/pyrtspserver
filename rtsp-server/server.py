@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding:utf-8 vi:ts=4:noexpandtab
 
-from factory import AudioFactory, VideoFactory
+from .factory import AudioFactory, VideoFactory
 import gi
 
 gi.require_version('Gst', '1.0')
