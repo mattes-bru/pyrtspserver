@@ -9,7 +9,7 @@ setup(
     ],
     entry_points={
         'console_scripts': [
-            'rtsp-server=rtsp_server:main',
+            'rtsp-server=rtsp_server:run_server',
         ]
     }
 )

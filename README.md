@@ -1,4 +1,4 @@
-# Simple RTSP Server written in Python using GStraeamer
+# Simple RTSP Server written in Python using GStreamer
 
 
 ## Dependencies
